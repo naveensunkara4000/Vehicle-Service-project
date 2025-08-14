@@ -146,54 +146,54 @@ ivsml/
 
 2. **Home Page Open**  
    _Open the application URL in your browser to view the home page interface._  
-   ![Home Page]((https://github.com/naveensunkara4000/Vehicle-Service-project/blob/8b41b0bbe5e5d04428a7dd0db55991342e79115b/Readme.md/Screenshorts/C2.png))
+   ![Home Page](https://github.com/naveensunkara4000/Vehicle-Service-project/blob/8b41b0bbe5e5d04428a7dd0db55991342e79115b/Readme.md/Screenshorts/C2.png)
 
 3. **Services We Offer**  
    _View a list of all available vehicle services (e.g., towing, repairs, battery replacement)._  
-   ![Services]((https://github.com/naveensunkara4000/Vehicle-Service-project/blob/8b41b0bbe5e5d04428a7dd0db55991342e79115b/Readme.md/Screenshorts/C3.png))
+   ![Services](https://github.com/naveensunkara4000/Vehicle-Service-project/blob/8b41b0bbe5e5d04428a7dd0db55991342e79115b/Readme.md/Screenshorts/C3.png)
 
 4. **Service Appointment Booking**  
    _Fill in the booking form by selecting service type, providing location, and preferred time._  
-   ![Service Booking]((https://github.com/naveensunkara4000/Vehicle-Service-project/blob/8b41b0bbe5e5d04428a7dd0db55991342e79115b/Readme.md/Screenshorts/C4.png))
+   ![Service Booking](https://github.com/naveensunkara4000/Vehicle-Service-project/blob/8b41b0bbe5e5d04428a7dd0db55991342e79115b/Readme.md/Screenshorts/C4.png)
 
 5. **Booking Confirmation**  
    _Receive a confirmation message along with booking ID and service details._  
-   ![Booking Confirmation]((https://github.com/naveensunkara4000/Vehicle-Service-project/blob/8b41b0bbe5e5d04428a7dd0db55991342e79115b/Readme.md/Screenshorts/C5.png))
+   ![Booking Confirmation](https://github.com/naveensunkara4000/Vehicle-Service-project/blob/8b41b0bbe5e5d04428a7dd0db55991342e79115b/Readme.md/Screenshorts/C5.png)
 
 6. **Admin Login**  
    _Admin logs into the system to manage services, mechanics, and user requests._  
-   ![Admin Login]((https://github.com/naveensunkara4000/Vehicle-Service-project/blob/8b41b0bbe5e5d04428a7dd0db55991342e79115b/Readme.md/Screenshorts/C6.png))
+   ![Admin Login](https://github.com/naveensunkara4000/Vehicle-Service-project/blob/8b41b0bbe5e5d04428a7dd0db55991342e79115b/Readme.md/Screenshorts/C6.png)
 
 7. **Dashboard**  
    _Admin dashboard showing key statistics like total users, bookings, and services._  
-   ![Dashboard]((https://github.com/naveensunkara4000/Vehicle-Service-project/blob/8b41b0bbe5e5d04428a7dd0db55991342e79115b/Readme.md/Screenshorts/C7.png))
+   ![Dashboard](https://github.com/naveensunkara4000/Vehicle-Service-project/blob/8b41b0bbe5e5d04428a7dd0db55991342e79115b/Readme.md/Screenshorts/C7.png)
 
 8. **Mechanic List**  
    _View and manage the list of registered mechanics, their details, and availability._  
-   ![Mechanic List]((https://github.com/naveensunkara4000/Vehicle-Service-project/blob/8b41b0bbe5e5d04428a7dd0db55991342e79115b/Readme.md/Screenshorts/C8.png))
+   ![Mechanic List](https://github.com/naveensunkara4000/Vehicle-Service-project/blob/8b41b0bbe5e5d04428a7dd0db55991342e79115b/Readme.md/Screenshorts/C8.png)
 
 9. **Service Request List**  
    _Monitor all service requests made by users, including pending and completed ones._  
-   ![Service Request List]((https://github.com/naveensunkara4000/Vehicle-Service-project/blob/8b41b0bbe5e5d04428a7dd0db55991342e79115b/Readme.md/Screenshorts/C9.png))
+   ![Service Request List](https://github.com/naveensunkara4000/Vehicle-Service-project/blob/8b41b0bbe5e5d04428a7dd0db55991342e79115b/Readme.md/Screenshorts/C9.png)
 
 10. **Reports**  
     _Generate and view reports summarizing bookings, services, and mechanic performance._  
-    ![Reports]((https://github.com/naveensunkara4000/Vehicle-Service-project/blob/8b41b0bbe5e5d04428a7dd0db55991342e79115b/Readme.md/Screenshorts/C10.png))
+    ![Reports](https://github.com/naveensunkara4000/Vehicle-Service-project/blob/8b41b0bbe5e5d04428a7dd0db55991342e79115b/Readme.md/Screenshorts/C10.png)
 
 11. **Category List**  
     _Manage categories for different service types to organize offerings._  
-    ![Category List]((https://github.com/naveensunkara4000/Vehicle-Service-project/blob/8b41b0bbe5e5d04428a7dd0db55991342e79115b/Readme.md/Screenshorts/C11.png))
+    ![Category List](https://github.com/naveensunkara4000/Vehicle-Service-project/blob/8b41b0bbe5e5d04428a7dd0db55991342e79115b/Readme.md/Screenshorts/C11.png)
 
 12. **Service List**  
     _View and edit the list of available services offered in each category._  
-    ![Service List]((https://github.com/naveensunkara4000/Vehicle-Service-project/blob/8b41b0bbe5e5d04428a7dd0db55991342e79115b/Readme.md/Screenshorts/C12.png))
+    ![Service List](https://github.com/naveensunkara4000/Vehicle-Service-project/blob/8b41b0bbe5e5d04428a7dd0db55991342e79115b/Readme.md/Screenshorts/C12.png)
 
 13. **User List**  
     _Display all registered users with their contact details and booking history._  
-    ![User List]((https://github.com/naveensunkara4000/Vehicle-Service-project/blob/8b41b0bbe5e5d04428a7dd0db55991342e79115b/Readme.md/Screenshorts/C13.png))
+    ![User List](https://github.com/naveensunkara4000/Vehicle-Service-project/blob/8b41b0bbe5e5d04428a7dd0db55991342e79115b/Readme.md/Screenshorts/C13.png)
 
-> 📸 **Replacing the screenshots:** Put your PNG/JPG files under `docs/screenshots/` in your repo and keep the same filenames, or update the image paths here.  
-> Tip: On GitHub, you can drag & drop images into an issue to get a public URL, then paste that URL in place of the relative paths above.
+
+
 
 ---
 
@@ -237,6 +237,4 @@ Mentorship & guidance acknowledged.
 
 ---
 
-## License
 
-Add a license file (e.g., MIT) if you plan to open-source the project.
