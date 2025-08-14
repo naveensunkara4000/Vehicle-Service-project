@@ -141,8 +141,7 @@ ivsml/
 ### A) User Flow
 1. **Home → Explore Services**  
    _User lands on the home page and sees available service types._  
-   `![Home](<img width="1900" height="960" alt="Screenshot 2025-08-14 134127" src="https://github.com/user-attachments/assets/4511ebf3-b9e3-4ca6-94a2-44a9286d775f" />
-)`
+   `Readme.md/docs/screenshots/c2.png`
 
 2. **Register / Login**  
    _Create an account or log in to continue._  
